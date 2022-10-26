@@ -16,4 +16,4 @@ typeof x
 typeof null
 typeof undefined 
 
-typeof array = []
+typeof array 
