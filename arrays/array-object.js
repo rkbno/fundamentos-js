@@ -15,3 +15,6 @@ foxObj.modelo
 // Fox
 foxObj.cor
 // Prata
+
+var emails = ['joao@email.com', 'maria@email.com']
+console.log(emails);
